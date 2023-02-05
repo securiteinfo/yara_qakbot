@@ -1,4 +1,4 @@
-# yara_qakbot :  yara detectiobn rule for Qakbot
+# yara_qakbot :  yara detection rule for Qakbot
 
 Qakbot, included in .one file have javascript obfuscation.
 This rule detects this obfuscation.
